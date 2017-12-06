@@ -894,7 +894,7 @@ root/h/jamal>>> ./file.sh
 hello class
 
 
-As we see without the correct permission levels, we cannot be able to execute the file.sh.
+As we see without the correct permission levels, we can't execute file.sh.
 
 
 
